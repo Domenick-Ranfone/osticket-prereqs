@@ -49,7 +49,7 @@ In this step, I registered PHP from within IIS. The steps taken are the followin
 
 
 
-![image](https://github.com/Domenick-Ranfone/osticket-prereqs/assets/138722554/feb44149-a545-4760-92eb-9b94bc06d3ae)
+![CC-Lab3 osTicket Prereqs](https://github.com/Domenick-Ranfone/osticket-prereqs/assets/138722554/625ab7d3-11b8-411f-9b1e-59e8a91b43d4)
 
 In this image, you find the completed installation of osTicket v1.15.8 following these final steps in our installation from our prerequisites.
 
