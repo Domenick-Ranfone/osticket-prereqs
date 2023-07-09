@@ -29,7 +29,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/Domenick-Ranfone/osticket-prereqs/assets/138722554/6138642b-58a5-4b57-ae3c-d636d6c5a50f)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The image above shows all the prerequisites downloaded to begin our installation of osTicket. The steps I took to get to this result are the following:
+
+A virtual machine created in Azure with 2-4 Virtual CPUs
+Install | Enable IIS in Windows with CGI and Common HTTP features
+Install PHP manager for IIS, Rewrite Module, PHP 7.3.8, VC_redist.x86.exe, and MySQL 5.5.62
+Created a directory for PHP on the c drive
 </p>
 <br />
 
